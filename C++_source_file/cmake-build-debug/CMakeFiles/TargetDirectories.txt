@@ -1,0 +1,3 @@
+/Users/Hansen/CLionProjects/ImageStitch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Hansen/CLionProjects/ImageStitch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Hansen/CLionProjects/ImageStitch/cmake-build-debug/CMakeFiles/ImageStitch.dir
